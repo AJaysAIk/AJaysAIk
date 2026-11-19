@@ -1,0 +1,108 @@
+{
+  "checked": "2026-11-19",
+  "username": "AJaysAIk",
+  "source": "GitHub repository metadata API",
+  "method": "Count each public repository once using its GitHub primary language classification. This is not code volume or proficiency. Includes the profile repository; excludes private repositories.",
+  "public_repository_count": 23,
+  "classification_counts": {
+    "Not classified": 2,
+    "HTML": 5,
+    "Jupyter Notebook": 7,
+    "Python": 7,
+    "TypeScript": 2
+  },
+  "repositories": [
+    {
+      "repository": "AJaysAIk/AJaysAIk",
+      "primary_classification": null
+    },
+    {
+      "repository": "AJaysAIk/cv",
+      "primary_classification": "HTML"
+    },
+    {
+      "repository": "AJaysAIk/mit",
+      "primary_classification": "HTML"
+    },
+    {
+      "repository": "AJaysAIk/form",
+      "primary_classification": "HTML"
+    },
+    {
+      "repository": "AJaysAIk/kl",
+      "primary_classification": "HTML"
+    },
+    {
+      "repository": "AJaysAIk/tindog-page",
+      "primary_classification": "HTML"
+    },
+    {
+      "repository": "AJaysAIk/flask_app",
+      "primary_classification": null
+    },
+    {
+      "repository": "AJaysAIk/Spam_classifier",
+      "primary_classification": "Jupyter Notebook"
+    },
+    {
+      "repository": "AJaysAIk/fake_news_real-news-Word-embeddings-",
+      "primary_classification": "Jupyter Notebook"
+    },
+    {
+      "repository": "AJaysAIk/Sentiment-analysis-RNN-",
+      "primary_classification": "Jupyter Notebook"
+    },
+    {
+      "repository": "AJaysAIk/Mental-health-predictions-using-NLP-minor-project",
+      "primary_classification": "Jupyter Notebook"
+    },
+    {
+      "repository": "AJaysAIk/AI-Telegram-chatbot--Clarity-x1",
+      "primary_classification": "Python"
+    },
+    {
+      "repository": "AJaysAIk/Speech_recognition",
+      "primary_classification": "Jupyter Notebook"
+    },
+    {
+      "repository": "AJaysAIk/Freshness-Detection-Project",
+      "primary_classification": "Python"
+    },
+    {
+      "repository": "AJaysAIk/NER-SPACY",
+      "primary_classification": "Jupyter Notebook"
+    },
+    {
+      "repository": "AJaysAIk/openfabric-ai-agent",
+      "primary_classification": "Python"
+    },
+    {
+      "repository": "AJaysAIk/HTSAgent-Task.Ajay",
+      "primary_classification": "Python"
+    },
+    {
+      "repository": "AJaysAIk/dubai-roi-agent",
+      "primary_classification": "Python"
+    },
+    {
+      "repository": "AJaysAIk/Robust-Preprocessing-and-Unsupervised-Subtype-Discovery-in-High-Dimensional-Methylation-Data",
+      "primary_classification": "Jupyter Notebook"
+    },
+    {
+      "repository": "AJaysAIk/founderradar-10",
+      "primary_classification": "TypeScript"
+    },
+    {
+      "repository": "AJaysAIk/A-IPES",
+      "primary_classification": "Python"
+    },
+    {
+      "repository": "AJaysAIk/code-agent-security-eval",
+      "primary_classification": "Python"
+    },
+    {
+      "repository": "AJaysAIk/Portfolio",
+      "primary_classification": "TypeScript"
+    }
+  ]
+}
