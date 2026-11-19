@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="326" viewBox="0 0 880 326" role="img" aria-label="Public repository snapshot: 23 public repositories; primary languages: Python 7, Jupyter Notebook 7, HTML 5, TypeScript 2, not classified 2. Snapshot 19 November 2026.">
+<rect x="1" y="1" width="878" height="324" rx="18" fill="#0d1117" stroke="#303149"/>
+<g font-family="Arial,sans-serif">
+<text x="28" y="38" fill="#f0f3fa" font-size="20" font-weight="700">GitHub, at a glance</text>
+<text x="28" y="62" fill="#8996ad" font-size="12">PUBLIC REPOSITORY SNAPSHOT · 19 NOV 2026</text>
+<line x1="345" y1="94" x2="345" y2="272" stroke="#303149"/>
+<text x="28" y="146" fill="#c0a0ff" font-size="58" font-weight="700">23</text>
+<text x="28" y="173" fill="#b9c3d4" font-size="15">public repositories</text>
+<text x="28" y="218" fill="#49dfeb" font-size="22" font-weight="700">AI · Software · Research</text>
+<text x="28" y="244" fill="#8996ad" font-size="12">Products, experiments and reproducible work.</text>
+<text x="380" y="101" fill="#f0f3fa" font-size="15" font-weight="700">Primary language / format by repository</text>
+<text x="380" y="130" fill="#bac4d7" font-size="13">Jupyter Notebook</text><rect x="530" y="119" width="154" height="12" rx="4" fill="#49dfeb"/><text x="696" y="130" fill="#ecf2fa" font-size="13">7</text>
+<text x="380" y="161" fill="#bac4d7" font-size="13">Python</text><rect x="530" y="150" width="154" height="12" rx="4" fill="#b58cff"/><text x="696" y="161" fill="#ecf2fa" font-size="13">7</text>
+<text x="380" y="192" fill="#bac4d7" font-size="13">HTML</text><rect x="530" y="181" width="110" height="12" rx="4" fill="#e49dc5"/><text x="652" y="192" fill="#ecf2fa" font-size="13">5</text>
+<text x="380" y="223" fill="#bac4d7" font-size="13">Not classified</text><rect x="530" y="212" width="44" height="12" rx="4" fill="#566177"/><text x="586" y="223" fill="#ecf2fa" font-size="13">2</text>
+<text x="380" y="254" fill="#bac4d7" font-size="13">TypeScript</text><rect x="530" y="243" width="44" height="12" rx="4" fill="#7a9dff"/><text x="586" y="254" fill="#ecf2fa" font-size="13">2</text>
+<text x="28" y="299" fill="#8996ad" font-size="11">Counts use GitHub's primary classification per public repo, not code volume or a measure of proficiency.</text>
+</g></svg>
